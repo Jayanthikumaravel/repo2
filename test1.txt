@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is D061-B06A
-
- Directory of C:\Users\JayanthiK\Desktop\MyGitProject
-
-11/29/2017  12:54 PM    <DIR>          .
-11/29/2017  12:54 PM    <DIR>          ..
-11/29/2017  12:54 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  832,718,151,680 bytes free
+changed
